@@ -1,0 +1,23 @@
+# ninja log v5
+59	91	7302740784454304	project_elf_src_esp32s3.c	d24fcef5f534a0c
+59	91	7302740784454304	D:/esp32_projects/filing/build/project_elf_src_esp32s3.c	d24fcef5f534a0c
+80	138	7302740784904299	esp-idf/esp_system/ld/memory.ld	499d1672a5be0313
+80	138	7302740784904299	D:/esp32_projects/filing/build/esp-idf/esp_system/ld/memory.ld	499d1672a5be0313
+74	328	7302740785124287	ota_data_initial.bin	42843a3a084d1ad4
+74	328	7302740785124287	D:/esp32_projects/filing/build/ota_data_initial.bin	42843a3a084d1ad4
+151	379	7302740787124418	esp-idf/mbedtls/mbedtls/3rdparty/everest/CMakeFiles/everest.dir/library/Hacl_Curve25519_joined.c.obj	f18ca62f91174b6a
+144	381	7302740786884314	esp-idf/mbedtls/mbedtls/3rdparty/everest/CMakeFiles/everest.dir/library/x25519.c.obj	b8690ca525887414
+139	546	7302740787884319	esp-idf/mbedtls/mbedtls/3rdparty/everest/CMakeFiles/everest.dir/library/everest.c.obj	4df58a9c78886351
+194	547	7302740787924309	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/aesce.c.obj	d527fc764d4bb9dd
+169	548	7302740788179513	esp-idf/mbedtls/mbedtls/3rdparty/p256-m/CMakeFiles/p256m.dir/p256-m/p256-m.c.obj	393decc8781e7b5c
+186	549	7302740788229512	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/aesni.c.obj	d2667c371c547e9b
+158	574	7302740788484733	esp-idf/mbedtls/mbedtls/3rdparty/p256-m/CMakeFiles/p256m.dir/p256-m_driver_entrypoints.c.obj	76f17f885d6e1da9
+277	602	7302740789524730	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/bignum_mod.c.obj	3b3cc2b23d6c84e4
+299	621	7302740789724727	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/bignum_mod_raw.c.obj	8c8a8a4863f76df6
+178	623	7302740789744710	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/aes.c.obj	12842a62a56e502c
+211	653	7302740790004715	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/asn1parse.c.obj	95a606cd09be9ae4
+231	668	7302740790174718	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/base64.c.obj	f8365ed724d49acd
+222	669	7302740790194717	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/asn1write.c.obj	fda22795bf810538
+202	699	7302740790494734	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/aria.c.obj	d7ef5a858fb330a7
+253	748	7302740790964731	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/bignum_core.c.obj	3eb8c509bc6ee1b9
+241	842	7302740791922700	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/bignum.c.obj	fc1c01d7a0094877

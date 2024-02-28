@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/arwa_/seven_seg/build/CMakeFiles/bootloader
+C:/Users/arwa_/seven_seg/build/CMakeFiles/bootloader.rule
+C:/Users/arwa_/seven_seg/build/CMakeFiles/bootloader-complete.rule
+C:/Users/arwa_/seven_seg/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/arwa_/seven_seg/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/arwa_/seven_seg/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/arwa_/seven_seg/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/arwa_/seven_seg/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/arwa_/seven_seg/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/arwa_/seven_seg/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
